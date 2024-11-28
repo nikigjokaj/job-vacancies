@@ -1,0 +1,25 @@
+body,html{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    width: 100%;
+    height: 70px;
+    background-color: #1da0ff;
+}
+
+span{
+    color: #ffffff;
+}
+
+ul{
+    width: auto;
+    float: right;
+    margin-top: 8px;
+}
+
+li{
+    display: inline-block;
+    padding: 15px 30px;
+}
